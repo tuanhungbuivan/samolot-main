@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/kk">
+        <file>samolot1.png</file>
+        <file>bg.jpg</file>
+        <file>samolot3.png</file>
+        <file>bullet5.png</file>
+    </qresource>
+</RCC>
